@@ -1,6 +1,6 @@
-# firebasetest
+# ETP_Group23_SmartShop
 
-A new Flutter application.
+A flutter project that I made for my Engineering team project. Smartshop is a digital booking ticket that is used to limit the number of people that can enter a premise. It connects to a cloud databade via Firebase to collect the info.
 
 ## Getting Started
 
